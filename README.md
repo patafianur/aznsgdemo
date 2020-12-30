@@ -1,6 +1,5 @@
 # aznsgdemo
 
-
 - sklonowac repo 
 
 - pobrac i wrzucic (rozpakowac) wlasciwa binarke terraforma do lokalnego katalogu repo (np cd aznsgdemo ; wget https://releases.hashicorp.com/terraform/0.14.3/terraform_0.14.3_linux_amd64.zip ; unzip terraform_0.14.3_linux_amd64.zip )
