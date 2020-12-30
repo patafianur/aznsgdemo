@@ -1,0 +1,1 @@
+COMMONVARS="../commonvars.tfvars"
