@@ -16,7 +16,7 @@ resource "azurerm_route_table" "domyslna" {
 
   route {
     name           = "ownvnet"
-    address_prefix = "10.98.0.0/17"
+    address_prefix = "10.95.0.0/16"
     next_hop_type  = "VnetLocal"
   }
 

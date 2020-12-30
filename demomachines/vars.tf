@@ -2,17 +2,10 @@
 variable admin_password {}
 variable admin_username {}
 
-variable testmachine1ip {
-  default = "10.99.129.10"
-}
-
-variable testmachine2ip {
-  default = "10.99.129.11"
-}
 
 
 variable testmachine4ip {
-  default = "10.98.1.6"
+  default = "10.9.1.6"
 }
 
 variable testmachinesize {

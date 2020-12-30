@@ -1,7 +1,7 @@
 # stawianie  core + vnet + peering + gateways + vpn
 # 20201105JG
 
-/* pousuwane sekcje z gw, vpn i calyum coreconn na potrzby demo*/
+/* okrojone coreconn na potrzby demo*/
 
 data "azurerm_subscription" "current" {
 }
