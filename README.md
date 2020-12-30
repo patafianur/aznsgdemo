@@ -6,11 +6,11 @@ vm nsg vs snet nsg
 
 - pobraz i wrzucic binarke terraforma do katalogu repo
 
-- (jesli nie ma zainstalowac az shell)
+- (jesli nie ma zainstalowac az shell i zalogowac sie az login)
 
 -  uzupelnienic id subskrypcji w commonvars.tfvars
 
-# wykreowac siec i maszyny
+# zainicjowac pluginy TF, wykreowac siec i maszyny
 
 -  cd coreconn/ ; ../terraform init ; ./create.sh ; cd ..
 
