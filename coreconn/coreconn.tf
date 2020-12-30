@@ -20,6 +20,7 @@ resource "azurerm_resource_group" "coreconnectivity" {
   tags = merge(var.commonlabels, local.locallabels, { merge1 = "f", merge2 = "z" })
 }
 
+/*
 
 resource "azurerm_management_group" "mg-core" {
   display_name = "${var.commonprefixes["mgmtgroups_name_prefix"]}${var.mgmt_group_name}"
@@ -29,6 +30,7 @@ resource "azurerm_management_group" "mg-core" {
   ]
 }
 
+*/
 
 
 
